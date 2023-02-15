@@ -1,0 +1,10 @@
+logo:
+  text: Xingmin.Wang's Blog
+  type: link
+  path: index.html
+main:
+- text: ITELS6.5
+  type: label
+- text: 001. 雅思综合词汇
+  type: link
+  path: ITELS/ITELS-Vocabulary.html
