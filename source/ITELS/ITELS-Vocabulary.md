@@ -45,6 +45,16 @@ tags:
 - erosion [ɪ'rəʊʒn] 侵蚀；腐蚀
 - scarce [skeəs] 稀有的，罕见的
 - construct [kən'strʌkt] 建造
+- assignment */*əˈsaɪnmənt*/* n. 作业，任务；（工作等的）分配，指派；（财产、权利的）转让
+- survey */*ˈsɜːveɪ*/* n. 民意调查. v. 做民意调查
+- potential */*pəˈtenʃ(ə)l*/* adj.  潜在的 可能的 n. 潜在 可能性
+- versus */*ˈvɜːsəs*/* 与……为对手 与……竞争
+- prior */*ˈpraɪə(r)*/*  to 先前的，之前的
+- take into account 考虑
+- oppsite  */*ˈɒpəzɪt*/* 相反的
+  - the oppsite is true 反过来也是一样 
+  - just the oppsite 正好相反
+
 
 ### 二、听力课词汇
 
@@ -108,7 +118,6 @@ tags:
 - sip [sɪp] 啜饮
 - Bagdad 巴格达(伊拉克首都)
 - expensive [ɪk'spensɪv] 昂贵的
-- flower ['flaʊə(r)] 花
 - potato [pə'teɪtəʊ] 土豆
 - plastic ['plæstɪk]     塑料
 - physics['fɪzɪks] 物理学
@@ -128,18 +137,11 @@ tags:
 - medicine ['medsn] 药
 - airline ['eəlaɪn] 航线
 - temperature ['temprətʃə(r)] 气温
-- city ['sɪti] 城市
 - fuel ['fjuːəl] 燃料
 - glue [ɡluː] 胶
-- true [truː] 真实的
-- guest [ɡest] 客人
-- guess [ɡes] 推测
-- argue ['ɑːɡjuː] 争论
 - avenue ['ævənjuː] 林荫道
 - unique [ju'niːk] 独特的
 - dialogue ['daɪəlɒɡ] 对话
-- medicine ['medsn] 药
-- temperature ['temprətʃə(r)] 气温
 - technical ['teknɪkl] 技术的
 - durable ['djʊərəbl] 耐用持久的
 - occupant ['ɒkjəpənt] 占有者
@@ -175,10 +177,7 @@ tags:
 - pit [pɪt] 坑
 - pot [pɒt] 罐
 - pub [pʌb] 酒吧
-- fat [fæt] 肥胖的
 - fight [faɪt] 战斗
-- let [let] 让
-- light [laɪt] 光
 - survey ['sɜːveɪ] 调查
 - international [ˌɪntə'næʃnəl] 国际的
 - hunting ['hʌntɪŋ] 打猎
@@ -192,8 +191,8 @@ tags:
 - metropolis [mə'trɒpəlɪs] 大都市
 - original [ə'rɪdʒənl] 原始的
 - origin ['ɒrɪdʒɪn] 起源；出身
-- photograph ['fəʊtəɡrɑːf] 拍照，摄影 p
-- hotographer [fə'tɒɡrəfə(r)] 摄影师
+- photograph ['fəʊtəɡrɑːf] 拍照，摄影 
+- photographer [fə'tɒɡrəfə(r)] 摄影师
 - photographic [ˌfəʊtə'ɡræfɪk] 摄影的
 - economic [ˌiːkə'nɒmɪk] 经济学的；经济的
 - fantastic [fæn'tæstɪk] 极好的；巨大的
@@ -225,7 +224,6 @@ tags:
 - calculate ['kælkjuleɪt] 计算；估计
 - measure ['meʒə(r)] 测量
 - figure ['fɪɡə(r)] 图形；数字
-- work [wɜːk] 工作
 - communicate [kə'mjuːnɪkeɪt] 传达
 - communication [kəˌmjuːnɪ'keɪʃn] 交流
 - commute [kə'mjuːt] 通勤
@@ -1010,121 +1008,596 @@ dif + 词根 = 分
 
 #### 7. 阅读词汇前缀辩义-表否定
 
-- Unhappy [ʌn'hæpi] 不快乐的；不高兴的  unable [ʌn'eɪbl] 不能的  unclear [ˌʌn'klɪə(r)] 不清楚的     uneven [ʌn'iːvn] 不平坦的；不均匀的  unaware [ˌʌnə'weə(r) ]没有发觉的；不知道的inaccurate [ɪn'ækjərət] 不准确的；错误的       inadequate [ɪn'ædɪkwət] 不适当的；不充分的insufficient [ˌɪnsə'fɪʃnt] 不足的          inconvenient [ˌɪnkən'viːniənt] 不方便的  malnourished
+- Unhappy [ʌn'hæpi] 不快乐的；不高兴的
+- unable [ʌn'eɪbl] 不能的
+- unclear [ˌʌn'klɪə(r)] 不清楚的
+- uneven [ʌn'iːvn] 不平坦的；不均匀的
+- unaware [ˌʌnə'weə(r) ]没有发觉的；不知道的
+- inaccurate [ɪn'ækjərət] 不准确的；错误的
+- inadequate [ɪn'ædɪkwət] 不适当的；不充分的
+- insufficient [ˌɪnsə'fɪʃnt] 不足的
+- inconvenient [ˌɪnkən'viːniənt] 不方便的
 
-[ˌmæl'nʌrɪʃt] 营养不良的  nutrition [nju'trɪʃn] 营养  malicious [mə'lɪʃəs] 恶意的malevolence [mə'levələns] 恶意      malediction [ˌmælɪ'dɪkʃən] 诅咒      malignant [mə'lɪɡnənt] 恶性的   malfunction [ˌmæl'fʌŋkʃn] 故障   benevolence [bə'nevələns] 善意    benediction
+male/bene 前缀表示不好的。bene 表示好的
 
-[ˌbenɪ'dɪkʃn] 祝福  benefit ['benɪfɪt] 利益  beneficial [ˌbenɪ'fɪʃl] 有利的  withdraw [wɪð'drɔː] 收回；撤退     withstand [wɪð'stænd] 抵挡、反抗      withhold [wɪð'həʊld] 阻止     contra ['kɒntrə] 相反     controversial [ˌkɒntrə'vɜːʃl] 有争议的       counteract [ˌkaʊntər'ækt] 抵消        counterfeit ['kaʊntəfɪt] 伪造 contradict [ˌkɒntrə'dɪkt] 矛盾  contrary ['kɒntrəri] 相反    contrast ['kɒntrɑːst] 对比      antibacterial [ˌæntibæk'tɪəriəl] 抗菌的    antibiotic [ˌæntibaɪ'ɒtɪk] 抗生的asocial [eɪ'səʊʃəl] 不合群的      asymmetric [ˌeɪsɪ'metrɪk] 不对称的           apathetic [ˌæpə'θetɪk] 无动于衷的     anonymous [ə'nɒnɪməs] 匿名的   adjust [ə'dʒʌst] 调整 adequate ['ædɪkwət] 充足assure [ə'ʃʊə(r)] 使确信；使放心      acceptance [ək'septəns] 认可      acceleration [əkˌselə'reɪʃn] 加速  addiction [ə'dɪkʃn] 沉溺；上瘾    additional [ə'dɪʃənl] 附加的；额外的         affirmative [ə'fɜːmətɪv] 肯定的；正面的       affinity [ə'fɪnəti] 姻亲；密切关系     aggravation [ˌæɡrə'veɪʃn] 更恶化；加厉       aggressive [ə'ɡresɪv] 侵略的；进攻性的   alleviate [ə'liːvieɪt] 减轻；使...缓和
+- malnourished[ˌmæl'nʌrɪʃt] 营养不良的
+- nutrition [nju'trɪʃn] 营养
+- malicious [mə'lɪʃəs] 恶意的
+- malevolence [mə'levələns] 恶意
+- malediction [ˌmælɪ'dɪkʃən] 诅咒
+- malignant [mə'lɪɡnənt] 恶性的
+- malfunction [ˌmæl'fʌŋkʃn] 故障
+- benevolence [bə'nevələns] 善意  thank you for your benevolence
+- benediction[ˌbenɪ'dɪkʃn] 祝福
+- benefit ['benɪfɪt] 利益
+- beneficial [ˌbenɪ'fɪʃl] 有利的
 
+With 相反
 
+- withdraw [wɪð'drɔː] 收回；撤退
+- withstand [wɪð'stænd] 抵挡、反抗
+- withhold [wɪð'həʊld] 阻止
+- contra ['kɒntrə] 相反
+- **controversial [ˌkɒntrə'vɜːʃl] 有争议的**
+  - controversy n. 争议
+- counteract [ˌkaʊntər'ækt] 抵消
+- counterfeit ['kaʊntəfɪt] 伪造
+- contradict [ˌkɒntrə'dɪkt] 矛盾
+  - contradiction n
+  - contradictory adj
+- contrary ['kɒntrəri] 相反
+- contrast ['kɒntrɑːst] 对比
 
-allocation [ˌælə'keɪʃn] 分配；配置  appointment [ə'pɔɪntmənt] 约会；任命  application
+anti 反
 
-![img](file:////Users/xingminwang/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image004.jpg)[ˌæplɪ'keɪʃn] 应用；申请  arrangement [əˈreɪndʒmənt] 安排; 筹备  arrow ['ærəʊ] 箭assume [ə'sjuːm] 假定；设想   assurance [ə'ʃʊərəns] 保证，担保    attractive [ə'træktɪv] 有吸引力的；有魅力的 permeate [ˈpɜːmieɪt] 渗透    persist [pə'sɪst] 坚持  permanent ['pɜːmənənt] 持久的     perspiration [ˌpɜːspə'reɪʃn] 出汗          intercity [ˌɪntə'sɪti] 城际的interpersonal [ˌɪntə'pɜːsənl] 人际的 interchange ['ɪntətʃeɪndʒ] 交换            interact [ˌɪntər'ækt] 互动  interdependence [ˌɪntədɪ'pendəns] 相互依赖         transcend [træn'send] 超越    transnational [ˌtrænz'næʃnəl] 跨国的  transform [træns'fɔːm] 变形    transplant ['trænsplɑːnt] 移植
+- antibacterial [ˌæntibæk'tɪəriəl] 抗菌的
+- antibiotic [ˌæntibaɪ'ɒtɪk] 抗生的 （bio 生物）
 
-transfer [træns'fɜː(r)] 改变，中转  transit ['trænzɪt] 运输；经过  transmit [træns'mɪt] 传输unique [ju'niːk] 独一无二的       uniform ['juːnɪfɔːm] 统一的、校服      bilingual [ˌbaɪ'lɪŋɡwəl] 双语的    bisect [baɪ'sekt] 平分    triangle ['traɪæŋɡl] 三角形 triple ['trɪpl] 三倍的          decade ['dekeɪd] 十年 decimal ['desɪml] 小数；十进制           century ['sentʃəri] 世纪  centimeter ['sentɪˌmiːtə] 厘米     millennium [mɪ'leniəm 千年    millipede ['mɪlɪpiːd] 蜈蚣    multimedia
+a 放在前面表示否定
 
-[ˌmʌlti'miːdiə] 多媒体  multistory [ˌmʌltɪ'stɔːrɪ] 多层的  hemisphere ['hemɪsfɪə(r)] 半球
+- asocial [eɪ'səʊʃəl] 不合群的
+- asymmetric [ˌeɪsɪ'metrɪk] 不对称的
+- apathetic [ˌæpə'θetɪk] 无动于衷的
+- anonymous [ə'nɒnɪməs] 匿名的
 
-semi-automatic 半自动的  automatic [ˌɔːtə'mætɪk] 自动的；自动装置
+ad + 单词/词根= 使动用法+加强
+
+- adjust [ə'dʒʌst] 调整
+- adequate ['ædɪkwət] 充足
+- assure [ə'ʃʊə(r)] 使确信；使放心
+- acceptance [ək'septəns] 认可
+- acceleration [əkˌselə'reɪʃn] 加速
+- addiction [ə'dɪkʃn] 沉溺；上瘾
+- additional [ə'dɪʃənl] 附加的；额外的
+- affirmative [ə'fɜːmətɪv] 肯定的；正面的
+- affinity [ə'fɪnəti] 姻亲；密切关系
+- aggravation [ˌæɡrə'veɪʃn] 更恶化；加厉
+- aggressive [ə'ɡresɪv] 侵略的；进攻性的
+- alleviate [ə'liːvieɪt] 减轻；使...缓和
+- allocation [ˌælə'keɪʃn] 分配；配置
+- appointment [ə'pɔɪntmənt] 约会；任命
+- application[ˌæplɪ'keɪʃn] 应用；申请
+- arrangement [əˈreɪndʒmənt] 安排; 筹备
+- arrow ['ærəʊ] 箭assume [ə'sjuːm] 假定；设想
+- assurance [ə'ʃʊərəns] 保证，担保
+- attractive [ə'træktɪv] 有吸引力的；有魅力的
+
+per 从头到尾
+
+- permeate [ˈpɜːmieɪt] 渗透
+- persist [pə'sɪst] 坚持
+- permanent ['pɜːmənənt] 持久的
+- perspiration [ˌpɜːspə'reɪʃn] 出汗 
+
+> Genius is one per cent inspiration and ninety-nine per cent perspiration 
+
+- inspiration 灵感
+
+Inter 相互之间
+
+- intercity [ˌɪntə'sɪti] 城际的
+- interpersonal [ˌɪntə'pɜːsənl] 人际的
+- interchange ['ɪntətʃeɪndʒ] 交换
+- interact [ˌɪntər'ækt] 互动
+- interdependence [ˌɪntədɪ'pendəns] 相互依赖
+
+**trans 越过 转移**
+
+- transcend [træn'send] 超越
+- transnational [ˌtrænz'næʃnəl] 跨国的
+- transform [træns'fɔːm] 变形
+  - transformer 变压器 变形金刚
+
+- transplant ['trænsplɑːnt] 移植
+- transfer [træns'fɜː(r)] 改变，中转
+- transit ['trænzɪt] 运输；经过
+- transmit [træns'mɪt] 传输
+
+**表示数字 uni 1 bi 2 tri 3 dec 10 cent 百 mill 千**
+
+- uni 单一
+- unique [ju'niːk] 独一无二的
+- uniform ['juːnɪfɔːm] 统一的、校服
+- bilingual [ˌbaɪ'lɪŋɡwəl] 双语的
+- bisect [baɪ'sekt] 平分
+- triangle ['traɪæŋɡl] 三角形
+- triple ['trɪpl] 三倍的
+- decade ['dekeɪd] 十年
+- decimal ['desɪml] 小数；十进制
+- century ['sentʃəri] 世纪
+- centimeter ['sentɪˌmiːtə] 厘米
+- millennium [mɪ'leniəm 千年
+- millipede ['mɪlɪpiːd] 蜈蚣
+- multimedia[ˌmʌlti'miːdiə] 多媒体
+- multistory [ˌmʌltɪ'stɔːrɪ] 多层的
+- hemisphere ['hemɪsfɪə(r)] 半球
+- semi-automatic 半自动的
+- automatic [ˌɔːtə'mætɪk] 自动的；自动装置
 
 #### 8. 阅读形近词辨析（1）
 
-vocation [vəʊ'keɪʃn] 职业  vacation [və'keɪʃn] 假期  perceive [pə'siːv] 注意到；觉察到conceive [kən'siːv] 设想；想出；怀孕   receive [rɪ'siːv] 接到    aboard [ə'bɔːd] 在船上；在火车上 broad [brɔːd] 宽     broaden ['brɔːdn] 拓宽   abroad [ə'brɔːd] 到国外 board [bɔːd] 板boarding ['bɔːdɪŋ] 登机      acquire          [ə 'kwaɪə (r)] 获得；学到         require [rɪ'kwaɪə(r)] 要求；需要inquire [ɪn'kwaɪə(r)] 询问；查究   adapt [ə'dæpt] 适应、改编                accustom [ə'kʌstəm] 使习惯adopt [ə'dɒpt] 采取，收养        option ['ɒpʃn] 选择          arise [ə'raɪz] 出现；升起     arouse [ə'raʊz] 叫
+- vocation [vəʊ'keɪʃn] 职业
+- vacation [və'keɪʃn] 假期
+- perceive [pə'siːv] 注意到；觉察到
+- conceive [kən'siːv] 设想；想出；怀孕
+- receive [rɪ'siːv] 接到
+- aboard [ə'bɔːd] 在船上；在火车上
+- broad [brɔːd] 宽
+  - in broad terms 宽泛的说法
+- broaden ['brɔːdn] 拓宽
+- abroad [ə'brɔːd] 到国外
+- board [bɔːd] 板
+- boarding ['bɔːdɪŋ] 登机
 
+**quire来自于quest**
 
+- acquire [ə 'kwaɪə (r)] 获得；学到
+- require [rɪ'kwaɪə(r)] 要求；需要
+- inquire [ɪn'kwaɪə(r)] 询问；查究
+- adapt [ə'dæpt] 适应、改编
+- accustom [ə'kʌstəm] 使习惯
+- adopt [ə'dɒpt] 采取，收养
+- option ['ɒpʃn] 选择
+- arise [ə'raɪz] 出现；升起
+- arouse [ə'raʊz] 叫醒；唤醒；激励=motivate=stimulate=trigger
+- rise [raɪz] 上升；升起
+- raise [reɪz] 上升；增高
+- attribute ['ætrɪbjuːt] v.归因于 n. 属性 特质
+- contribute [kən'trɪbjuːt] 贡献
+  - contribute to 导致 引起
+- distribute [dɪ'strɪbjuːt] 分布
+- attitude ['ætɪtjuːd] 态度；看法
+- altitude ['æltɪtjuːd] 高度、海拔 =。height
+- latitude ['lætɪtjuːd] 纬度；自由
+- longitude ['lɒŋɡɪtjuːd] 经度
+- avenue ['ævənjuː] 林荫道；大街 = road 听力高频词汇，缩写为 Ave.
+- revenue ['revənjuː] 收入 re=back
+- avenge*/*əˈvendʒ*/*  revenge*/*rɪˈvendʒ*/* 复仇，avenger 复仇者联盟
+- ventilation [ˌventɪ'leɪʃn] 通风
+- advent ['ædvent] 到来
+- clarity ['klærəti] 阐明；清晰
+- charity ['tʃærəti] 慈善
+- conference ['kɒnfərəns] 会议
+  - confer on 带来
+- reference ['refrəns] 参考；参照
+  - reference to 提到
+  - refer to 参考；涉及；指的是；适用于
+- preference ['prefrəns]偏爱；优先
+- interference [ˌɪntə'fɪərəns] 干扰；妨碍
+  - interfere with 干扰
+- costume ['kɒstjuːm] 服饰
+- cosplay [kɒspleɪ] 真人秀
+- custom ['kʌstəm] 习惯
+- customer ['kʌstəmə(r)] 顾客
+- consume [kən'sjuːm] 消费，消耗
+  - consumer 消费者
+- assume [ə'sjuːm] 假设≈presume [prɪ'zjuːm]
 
-![img](file:////Users/xingminwang/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image004.jpg)醒；唤醒  rise [raɪz] 上升；升起  raise [reɪz] 上升；增高  attribute ['ætrɪbjuːt] 归因于contribute [kən'trɪbjuːt] 贡献        distribute [dɪ'strɪbjuːt] 分布                 attitude ['ætɪtjuːd] 态度；看法altitude ['æltɪtjuːd] 高度、海拔 latitude ['lætɪtjuːd] 纬度；自由 longitude ['lɒŋɡɪtjuːd] 经度avenue ['ævənjuː] 林荫道；大街     revenue ['revənjuː] 收入    ventilation [ˌventɪ'leɪʃn] 通风advent ['ædvent] 到来 clarity ['klærəti] 阐明；清晰    charity ['tʃærəti] 慈善        clarity ['klærəti] 清楚        charity ['tʃærəti] 慈善   conference ['kɒnfərəns] 会议                     reference ['refrəns] 参考；参照preference ['prefrəns]偏爱；优先    interference [ˌɪntə'fɪərəns] 干扰；妨碍      costume ['kɒstjuːm] 服饰 cosplay [kɒspleɪ] 真人秀      custom ['kʌstəm] 习惯 customer ['kʌstəmə(r)] 顾客consume [kən'sjuːm] 消费，消耗                     assume [ə'sjuːm] 假设≈presume [prɪ'zjuːm]           contact ['kɒntækt] 接触；联系    contract ['kɒntrækt] 合同；婚约         contrast ['kɒntrɑːst] 对比；差别contrary ['kɒntrəri] 相反的 contagious [kən'teɪdʒəs] 污染的                intact [ɪn'tækt] 完整的
+tact 接触
 
-tractor ['træktə(r)] 拖拉机  extract ['ekstrækt] 提取  abstract ['æbstrækt] 抽象的  distract [dɪ'strækt] 分心   detract [dɪ'trækt] 削弱  contest ['kɒntest] 竞赛          context ['kɒntekst] 背景； 环境；语境≈background ['bækɡraʊnd]  conservation [ˌkɒnsə'veɪʃn] 保存   conversation
+- contact ['kɒntækt] 接触；联系
+- contract ['kɒntrækt] 合同；婚约
+- contrast ['kɒntrɑːst] 对比；差别
+- contrary ['kɒntrəri] 相反的
+- contagious [kən'teɪdʒəs] 污染的
+- intact [ɪn'tækt] 完整的
+- tractor ['træktə(r)] 拖拉机
+- extract ['ekstrækt] 提取
+- abstract ['æbstrækt] 抽象的
+- distract [dɪ'strækt] 分心
+- detract [dɪ'trækt] 削弱
+- contest ['kɒntest] 竞赛
+- context ['kɒntekst] 背景； 环境；语境≈background ['bækɡraʊnd]
+  - cultural context 文化背景
+- serve [sɜːv] 服务
+- service ['sɜːvɪs] 服务
+- servant ['sɜːvənt] 仆人
+- reserve [rɪ'zɜːv] 预定
+- preserve [prɪ'zɜːv] 保护；储存
+- conserve [kən'sɜːv] 保存
+- **conservative [kən'sɜːvətɪv] 保守的**
+- reservoir ['rezəvwɑː(r)] 水库
+- conservation [ˌkɒnsə'veɪʃn] 保存
+- conversation [ˌkɒnvə'seɪʃn] 谈话
 
-[ˌkɒnvə'seɪʃn] 谈话  serve [sɜːv] 服务  service ['sɜːvɪs] 服务 servant ['sɜːvənt] 仆人
+verse 词根 = 转 = resolve = rotate
 
-reserve [rɪ'zɜːv] 预定  preserve [prɪ'zɜːv] 保护；储存  conserve [kən'sɜːv] 保存  conservative [kən'sɜːvətɪv] 保守的          reservoir ['rezəvwɑː(r)] 水库               conservation [ˌkɒnsə'veɪʃn] 保存conversation [ˌkɒnvə'seɪʃn] 谈话 reverse [rɪ'vɜːs] 逆转         inverse [ˌɪn'vɜːs] 倒转的；相反的converse [kən'vɜːs] 谈话；相反的  diverse [daɪ'vɜːs] 不同的  adversity [əd'vɜːsəti] 逆境versatile ['vɜːsətaɪl] 多功能的
+- reverse [rɪ'vɜːs] 逆转
+- inverse [ˌɪn'vɜːs] 倒转的；相反的
+  - inverse proportion 反比例
+- converse [kən'vɜːs] v. 谈话；adj 相反的 ; n. 相反的事物
+- diverse [daɪ'vɜːs] 不同的
+- adversity [əd'vɜːsəti] 逆境
+- versatile ['vɜːsətaɪl] 多功能的
 
 #### 9. 阅读形近词辨析（2）
 
-considerable [kən'sɪdərəbl] 相当多的；非常大的  considerate [kən'sɪdərət] 考虑周到的；体谅
+-  considerable [kən'sɪdərəbl] 相当多的；非常大的
+  - considerably
+- considerate [kən'sɪdərət] 考虑周到的；体谅的；体贴的
+- deduce [dɪ'djuːs] 推理
+- induce 引导 [ɪn'djuːs]
+- reduce [rɪ'djuːs] 再现；复制；减少
+- reduction [rɪ'dʌkʃn] 减少；降低；减价
+- introduce [ˌɪntrə'djuːs] 引进；介绍
+- reproduce [ˌriːprə'djuːs] 再生；复制；生殖
+- conduct [kən'dʌkt] 进行 + experiment/study 进行研究
+-  aqueduct ['ækwɪdʌkt] 水管；沟渠
+   -  aqua=水
 
+-  aquarium [ə'kweəriəm] 水族馆
+-  device [dɪ'vaɪs] =design [dɪ'zaɪn] 设计，设想，设备
+-  devise [dɪ'vaɪz] 设计；发明
+-  revise [rɪ'vaɪz] 复习，修改
+   -  revision=change   
 
+-  demise [dɪ'maɪz] 死亡
+-  envision [ɪn'vɪʒn] 设想 =envisage [ɪn'vɪzɪdʒ]
+-  device 设备 [dɪ'vaɪs]
+-  a host of 大量的 a xxx of 都是大量的
+-  be worn off = be run off = be consumed = be exhausted = 被耗尽
+   -  wear 磨损；穿衣服
 
-的  deduce [dɪ'djuːs] 推理  induce 引导 [ɪn'djuːs]  reduce [rɪ'djuːs] 再现；复制
+-  exhausted [ɪɡ'zɔːstɪd] 被耗尽
+-  disappear [ˌdɪsə'pɪə(r)] 消失 =vanish ['vænɪʃ] = fade away慢慢消失
+-  perish ['perɪʃ] 灭绝 =extinguish [ɪk'stɪŋɡwɪʃ]
+-  demise [dɪ'maɪz] 死亡=mortality [mɔː'tæləti]
+-  mortal */*ˈmɔːt(ə)l*/* adj. 会死的
+   -  immortal 不朽的
 
-![img](file:////Users/xingminwang/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image004.jpg)reduction [rɪ'dʌkʃn] 减少；降低；减价  introduce [ˌɪntrə'djuːs] 引进  reproduce [ˌriːprə'djuːs] 再生；复制；生殖      conduct [kən'dʌkt] 进行 aqueduct ['ækwɪdʌkt] 水管；沟渠       aquarium [ə'kweəriəm] 水族馆    device [dɪ'vaɪs] =design [dɪ'zaɪn] 设计，设想      devise [dɪ'vaɪz] 设计；发明    revise [rɪ'vaɪz] 复习，修改  demise [dɪ'maɪz] 死亡 envision [ɪn'vɪʒn] 设想 =envisage [ɪn'vɪzɪdʒ]    device 设备 [dɪ'vaɪs]         exhausted [ɪɡ'zɔːstɪd] 被耗尽   disappear [ˌdɪsə'pɪə(r)] 消失
+-  end [end] =finish ['fɪnɪʃ]=cease [siːs] =终止
+-  vital ['vaɪtl] 重要的
+-  fatal ['feɪtl] 重要的，致命的
+-  fate [feɪt] 命运
+-  important [ɪm'pɔːtnt] 重要的；重大的
+-  significant [sɪɡ'nɪfɪkənt] 重要的；有意义的
+-  momentous [mə'mentəs] 重要的；重大的
+   -  moment 时刻
 
-=vanish ['vænɪʃ]  perish ['perɪʃ] 灭绝 =extinguish [ɪk'stɪŋɡwɪʃ]   demise [dɪ'maɪz] 死亡
-
-=mortality [mɔː'tæləti] end [end] =finish ['fɪnɪʃ]=cease [siːs] =中止 vital ['vaɪtl] 重要的 fatal ['feɪtl] 重要的，致命的 fate [feɪt] 命运 important [ɪm'pɔːtnt] 重要的；重大的 significant [sɪɡ'nɪfɪkənt] 重要的；有意义的 momentous [mə'mentəs] 重要的；重大的 leading ['liːdɪŋ] 领导的；指导的vital ['vaɪtl] 至关重要的；有活力的 critical ['krɪtɪkl] 批评的；挑剔的；决定性的 crucial ['kruːʃl] 决定性的；关键的 essential [ɪ'senʃl] 本质的；必要的；重要的 chief [tʃiːf] 主要的；首要的 major ['meɪdʒə(r)] 主要的 primary ['praɪməri] 首要的  main [meɪn] 主要的；最重要的 influential [ˌɪnflu'enʃl] 有权势的；有影响的 remarkable [rɪ'mɑːkəbl] 非凡的；值得注意的 decisive [dɪ'saɪsɪv] 决定性的；果断的 efficient [ɪ'fɪʃnt] 效率高的；胜任的 effective [ɪ'fektɪv] 有效的 effectiveness [ɪˌfek'tɪvnɪs] 效果 sufficient [sə'fɪʃnt] 充足的
-
-=enough [ɪ'nʌf]  deficient [dɪ'fɪʃnt] 不足的=short [ʃɔːt]   affect [ə'fekt] 影响  infect [ɪn'fekt] 传染      defect ['diːfekt] 缺陷 =flaw [flɔː] efficient [ɪ'fɪʃnt] 高效的 efficiency [ɪ'fɪʃnsi] 效率常见的否定动词：
-
-fail [feɪl]失败；没做成某事  doubt [daʊt] 怀疑  suspect [sə'spekt] 怀疑  deny [dɪ'naɪ] 否认
-
-refuse [rɪ'fjuːz] 拒绝  forbid [fə'bɪd] 禁止  avoid [ə'vɔɪd] 避免  escape [ɪ'skeɪp]逃跑  lack [læk] 缺乏  quit [kwɪt] 退出；辞职 object ['ɒbdʒɪkt] 反对          abandon [ə'bændən] 放弃
-
-
-
-cancel ['kænsl] 取消  oppose [ə'pəʊz] 反对  discard [ə'pəʊz] 丢弃  ignore [ɪɡ'nɔː(r)] 忽视
+-  leading ['liːdɪŋ] 领导的；指导的
+-  vital ['vaɪtl] 至关重要的；有活力的
+-  critical ['krɪtɪkl] 批评的；挑剔的；决定性的
+-  crucial ['kruːʃl] 决定性的；关键的
+-  essential [ɪ'senʃl] 本质的；必要的；重要的
+-  chief [tʃiːf] 主要的；首要的
+-  major ['meɪdʒə(r)] 主要的
+-  primary ['praɪməri] 首要的
+-  main [meɪn] 主要的；最重要的
+-  influential [ˌɪnflu'enʃl] 有权势的；有影响的
+-  remarkable [rɪ'mɑːkəbl] 非凡的；值得注意的
+-  decisive [dɪ'saɪsɪv] 决定性的；果断的
+-  efficient [ɪ'fɪʃnt] 效率高的；胜任的
+-  efficiency */*ɪˈfɪʃ(ə)nsi*/* 效率
+-  effective [ɪ'fektɪv] 有效的
+-  effectiveness [ɪˌfek'tɪvnɪs] 效果
+-  sufficient [sə'fɪʃnt] 充足的=enough [ɪ'nʌf]
+-  deficient [dɪ'fɪʃnt] 不足的=short [ʃɔːt]
+-  affect [ə'fekt] 影响
+-  infect [ɪn'fekt] 传染
+-  defect ['diːfekt] 缺陷 =flaw [flɔː]
+-  efficient [ɪ'fɪʃnt] 高效的
+-  efficiency [ɪ'fɪʃnsi] 效率常见的否定动词：fail [feɪl]失败；没做成某事
+-  doubt [daʊt] 怀疑
+-  suspect [sə'spekt] 怀疑
+-  deny [dɪ'naɪ] 否认
+-  refuse [rɪ'fjuːz] 拒绝
+-  forbid [fə'bɪd] 禁止
+-  avoid [ə'vɔɪd] 避免
+-  escape [ɪ'skeɪp]逃跑
+-  lack [læk] 缺乏
+-  quit [kwɪt] 退出；辞职
+-  object ['ɒbdʒɪkt] 反对
+-  abandon [ə'bændən] 放弃
+-  cancel ['kænsl] 取消
+-  oppose [ə'pəʊz] 反对
+-  discard [ə'pəʊz] 丢弃
+-  ignore [ɪɡ'nɔː(r)] 忽视
 
 常见的否定介词：
 
-
-
-![img](file:////Users/xingminwang/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image004.jpg)without [wɪ'ðaʊt] 没有  beyond [bɪ'jɒnd 超出  against [ə'ɡenst] 与…方向相反  except [ɪk'sept] 除了...之外   but [bət] 除...以外     excluding [ɪk'skluːdɪŋ] 除…之外 out of 离开... off [ɒf] 离开；在...之外                 under ['ʌndə(r)] 低于；在...下 below [bɪ'ləʊ] 低于；在...下面
-
-explode [ɪk'spləʊd] 爆炸  explosion [ɪk'spləʊʒn] 爆炸  explore [ɪk'splɔː(r)] 探索  exploration
-
-[ˌeksplə'reɪʃn] 探索  exploit [ɪk'splɔɪt] 开发，利用
+- without [wɪ'ðaʊt] 没有
+- beyond [bɪ'jɒnd] 超出
+- against [ə'ɡenst] 与…方向相反
+- except [ɪk'sept] 除了...之外
+- but [bət] 除...以外
+- excluding [ɪk'skluːdɪŋ] 除…之外
+- out of 离开... 
+- off [ɒf]离开；在...之外
+- under ['ʌndə(r)] 低于；在...下
+- below [bɪ'ləʊ] 低于；在...下面
+- explode [ɪk'spləʊd] 爆炸
+- explosion [ɪk'spləʊʒn] 爆炸
+- explore [ɪk'splɔː(r)] 探索
+- exploration[ˌeksplə'reɪʃn] 探索
+- exploit [ɪk'splɔɪt] 开发，利用
 
 #### 10. 阅读形近词辨析（3）
 
-except [ɪk'sept] 除了...之外   expect [ɪk'spekt] 预期excerpt ['eksɜːpt] 摘录  perceive [pə'siːv] 感觉，理解     accept [ək'sept] 接受               conceive [kən'siːv] 构思，设想 expect [ɪk'spekt] 期待inspect [ɪn'spekt] 检查  prospect ['prɒspekt] 前景       respect [rɪ'spekt] 尊敬        respective [rɪ'spektɪv] 各自的 perspective [pə'spektɪv] 观点 aspect ['æspekt] 方面     involve [ɪn'vɒlv] 包含 evolve [i'vɒlv] (使)逐步演变；进化            evolution [ˌiːvə'luːʃn] 进化     revolve [rɪ'vɒlv] 旋转revolutionary [ˌrevə'luːʃənəri] 非传统的          modern ['mɒdn] 现代的             radical ['rædɪkl] 激进的uncommon [ʌn'kɒmən] 不寻常的特别的    special ['speʃl] 特别的                 particular [pə'tɪkjələ(r)] 特定的      unordinary [ʌn'ɔːdɪnərɪ] 不平常的  extraordinary [ɪk'strɔːdnri] 非凡的  strange [streɪndʒ] 奇怪的      odd [ɒd] 古怪的                  peculiar [pɪ'kjuːliə(r)] 奇怪的  eccentric [ɪk'sentrɪk] 古怪的 media ['miːdiə]  传播媒介；(medium 的复数)媒体；新闻媒介                medium ['miːdiəm] 中号、中等的、媒介   Medieval [ˌmedi'iːvl] 中世纪  Mediterranean   [ˌmedɪtə'reɪniən]   地中海modest ['mɒdɪst]谦虚的；适中的  moderate ['mɒdərət] 温和的、有节制的、中等 patent ['pætnt] 专利、取得专利、公开的     parent ['peərənt] 看得见的            apparent [ə'pærənt] 明显的transparent [træns'pærənt] 透明的  parental [pə'rentl] 父母的 potent ['pəʊtnt] 强大的
-
-
-
-=powerful ['paʊəfl]  potential [pə'tenʃl] 潜在的、潜力  impotent ['ɪmpətənt] 没有能力的promise ['prɒmɪs] 允诺      promising ['prɒmɪsɪŋ] 有希望的；有前途的         compromise ['kɒmprəmaɪz] 妥协，和解；让步   season ['siːzn] 季节          seasoned ['siːznd] 风干的，调味的project ['prɒdʒekt] 项目       projected [prə'dʒektɪd] 投影的  mean [miːn] 意思是   means
-
-![img](file:////Users/xingminwang/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image004.jpg)[miːnz] 方式（单复数同型）  work [wɜːk] 工作  compromise ['kɒmprəmaɪz] 妥协  premise ['premɪs] 前提；场地          insist [ɪn'sɪst] 坚持（观点） persist [pə'sɪst] 坚持（精神） resist [rɪ'zɪst] 抵抗   withstand [wɪð'stænd] 对抗  constitute ['kɒnstɪtjuːt] 建立         institute ['ɪnstɪtjuːt] 建立、学院      constitution [ˌkɔnstɪ'tjuːʃən] 体制=institution [ˌɪnstɪ'tjuːʃn]  though [ðəʊ] 尽管、但是through [θruː] 通过  thought [θɔːt] 思考（动词 think 的过去式和过去分词）      thorough
-
-['θʌrə] 彻底
-
-
+- except [ɪk'sept] 除了...之外
+- expect [ɪk'spekt] 预期；要求
+- excerpt ['eksɜːpt] 摘录
+- perceive [pə'siːv] 感觉，理解 = sense
+- perception */*pəˈsepʃ(ə)n*/* n. 看法 认识 感觉 感知
+- accept [ək'sept] 接受
+- acceptance n. 认可
+  - wide acceptance 普遍认可
+  - do you accept RMB or US dollar?
+- conceive [kən'siːv] v 构思，设想
+- concept 概念
+- economic 经济的 经济学的
+- expect [ɪk'spekt] 朝外看 期待
+- inspect [ɪn'spekt] 朝内看 检查
+- prospect ['prɒspekt] 超前看 前景
+- respect [rɪ'spekt] 朝后看 尊敬
+- respective [rɪ'spektɪv] 各自的
+- perspective [pə'spektɪv] 观点
+- category 种类 范畴
+- innovation n. 新事物 新方法
+- strategy n. 策略 行动计划
+- pursue v. 追求 致力于 执行
+- aspect ['æspekt] 方面
+- genius 天才的
+- frequency 出现的频率，次数
+- involve [ɪn'vɒlv] 包含（主动句）；参与（被动句）be involved in
+  - The students involved in the bully 被欺负的学生们
+- evolve [i'vɒlv] (使)逐步演变；进化
+  - = roll out 进行、推出新产品的
+- evolution [ˌiːvə'luːʃn] 进化
+- revolve [rɪ'vɒlv] 旋转
+- revolutionary [ˌrevə'luːʃənəri]非传统的 = not traditional = modern现代的 = redical激进的 = uncommon 不寻常的
+- modern ['mɒdn] 现代的
+- radical ['rædɪkl] 激进的
+- uncommon [ʌn'kɒmən] 不寻常的特别的
+- special ['speʃl] 特别的
+- particular [pə'tɪkjələ(r)] 特定的
+- unordinary [ʌn'ɔːdɪnərɪ] 不平常的
+  - ordinary adj. 普通的 常见的 n. 常见的人或事物
+- extraordinary [ɪk'strɔːdnri] 非凡的
+- strange [streɪndʒ] 奇怪的
+- odd [ɒd] 古怪的
+- peculiar [pɪ'kjuːliə(r)] 奇怪的
+- eccentric [ɪk'sentrɪk] 古怪的
+- media ['miːdiə]  传播媒介；(medium 的复数)媒体；新闻媒介
+- medium ['miːdiəm] 中号、中等的、媒介
+  - media本身是个负数
+  - data 也是复数 datum n. 数据，资料；前提
+- Medieval [ˌmedi'iːvl] 中世纪
+- Mediterranean   [ˌmedɪtə'reɪniən]地中海
+- modest ['mɒdɪst]谦虚的；适中的
+- moderate ['mɒdərət] 温和的、有节制的、中等
+- in contempoary social 在当今社会中
+- patent ['pætnt] 专利、取得专利、公开的
+- parent ['peərənt] 看得见的
+- apparent [ə'pærənt] 明显的
+- transparent [træns'pærənt] 透明的
+- parental [pə'rentl] 父母的
+- potent ['pəʊtnt] 强大的=powerful ['paʊəfl]
+- potential [pə'tenʃl] adj. 潜在的; n. 潜力
+- impotent ['ɪmpətənt] 没有能力的
+- promise ['prɒmɪs] 允诺
+- promising ['prɒmɪsɪŋ] 有希望的；有前途的
+- compromise ['kɒmprəmaɪz] 妥协，和解；让步
+- season ['siːzn] 季节
+- seasoned ['siːznd] 风干的，调味的
+- project ['prɒdʒekt] 项目
+- projected [prə'dʒektɪd] 投影的
+- mean [miːn] 意思是
+- means[miːnz] 方式（单复数同型）
+- work [wɜːk] 工作 works 作品 工厂
+- compromise['kɒmprəmaɪz] 妥协
+- premise ['premɪs] 前提；场地
+  - dogs are not allowed on this premise
+- stable 稳定的
+- statue 雕塑
+- status 地位
+- static 静止的
+- state 说明；国家（州）；情况 not in good state
+- obstacle*/*ˈɒbstək(ə)l*/*  n. 障碍 阻碍 障碍物 
+- insist [ɪn'sɪst] 坚持（观点）
+- persist [pə'sɪst] 坚持（精神）
+- resist [rɪ'zɪst] 抵抗
+- withstand [wɪð'stænd] 对抗
+- constitute ['kɒnstɪtjuːt] 建立
+- institute ['ɪnstɪtjuːt] 建立、学院
+- constitution [ˌkɔnstɪ'tjuːʃən] 体制=institution [ˌɪnstɪ'tjuːʃn]
+- though [ðəʊ] （句子前面）尽管、（句子中间）但是
+- through [θruː] （介词、副词、形容词）通过
+  - get through 熬过
+- thought [θɔːt] 思考（动词 think 的过去式和过去分词）
+- thorough['θʌrə] adj. 彻底的 全面的
+  - Think thoroughly 
 
 ### 四、写作课词汇
 
 #### 1. 写作词汇考核指南
 
-![img](file:////Users/xingminwang/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image004.jpg)describe [dɪ'skraɪb] 描述  demonstrate ['demənstreɪt] 阐明  magnificent [mæɡ'nɪfɪsnt] 壮观的 detrimental [ˌdetrɪ'mentl] 有害的      ethos ['iːθɒs] 民族精神 inextricably [ˌɪnɪk'strɪkəbli] 分不开地 bound [baʊnd] 必定的                     artefact ['ɑːtɪfækt] 人工制品         relentless [rɪ'lentləs] 冷酷无情的     bland [blænd] 温和的      oust [aʊst] 逐出；夺取    manifestation [ˌmænɪfe'steɪʃn] 表现ritual ['rɪtʃuəl] 仪式；典礼        utensils [juː'tensɪlz] 器具；用具                 glamorous ['ɡlæmərəs] 富有魅力的；迷人的 craftspeople ['krɑːftspiːpl] 工匠; 手艺人    disillusioned [ˌdɪsɪ'luːʒnd] 不再抱幻想的             impel [ɪm'pel] 驱使；激励      trinket ['trɪŋkɪt] 廉价的小装饰品；不值钱的珠宝    entitled
-
-[ɪn'taɪtld] 有资格的；已被命名的  faceless ['feɪsləs] 匿名的；无名的  uniformity [ˌjuːnɪ'fɔːməti] 一致；同样    dreary ['drɪəri] 沉闷的  cohesive [kəʊ'hiːsɪv] 粘性的；有结合性的  cohesion [kəʊ'hiːʒn] 凝聚力
+- describe [dɪ'skraɪb] 描述
+- demonstrate ['demənstreɪt] 阐明
+- magnificent [mæɡ'nɪfɪsnt] 壮观的
+- detrimental [ˌdetrɪ'mentl] 有害的
+- ethos ['iːθɒs] 民族精神
+- inextricably [ˌɪnɪk'strɪkəbli] 分不开地
+- bound [baʊnd] 必定的
+- manufacture  */*ˌmænjuˈfæktʃə(r)*/* n. 工业品；大量制造 批量生产  v. 生产制造 
+- artefact ['ɑːtɪfækt] 人工制品
+- relentless [rɪ'lentləs] 冷酷无情的
+- bland [blænd] 温和的
+- oust [aʊst] 逐出；夺取
+- manifestation [ˌmænɪfe'steɪʃn] 表现
+- ritual ['rɪtʃuəl] 仪式；典礼
+- utensils [juː'tensɪlz] 器具；用具 
+- glamorous ['ɡlæmərəs] 富有魅力的；迷人的
+- craftspeople ['krɑːftspiːpl] 工匠; 手艺人
+- disillusioned [ˌdɪsɪ'luːʒnd] 不再抱幻想的 ==  confuesed 
+- impel [ɪm'pel] 驱使；激励
+- trinket ['trɪŋkɪt] 廉价的小装饰品；不值钱的珠宝
+- entitled [ɪn'taɪtld] 有资格的；已被命名的
+  - be entitled to 有权利
+- faceless ['feɪsləs] 匿名的；无名的
+- uniformity [ˌjuːnɪ'fɔːməti] 一致；同样
+- dreary ['drɪəri] 沉闷的
+- cohesive [kəʊ'hiːsɪv] 粘性的；有结合性的
+- cohesion [kəʊ'hiːʒn] 凝聚力
 
 #### 2. 写作提分高能词-关联词
 
-**并列**：and  or   not only...but also  meanwhile  at the same time  similarly  likewise
+**并列**：
 
-**递进**：then  next  besides  furthermore  moreover  what is more  in addition additionally **总结**：in conclusion            in brief       in general     generally speaking    overall  all in all to sum up **强调**：in fact        as a matter of fact     indeed       especially                particularly    undoubtedly
+- and  or
+- not only...but also
+- meanwhile 同时
+- at the same time 同时
+- similarly
+- likewise
 
-**举例**：for example  for instance  such as
+**递进**：
 
-**因果关系介词**：due to   owing to   thanks to  because of   as a result of
+- then  next
+- besides 此外，相当于 second
+- furthermore 此外，而且
+- moreover 此外，而且
+- what is more 而且
+- in addition 此外，另外
+- additionally *adv.*另外，此外；分外地，更加
 
-**表示所以的连词**： so  therefore  thus  hence  accordingly  consequently  as a result
+**总结**：
 
-**表示导致的动词**：cause   lead to  result in  bring about
+- in conclusion 作为总结
+- in brief 简而言之
+- in general 总体来说
+- generally speaking 总的来说
+- overall adj adv 总的 全面的
+- all in all 总而言之
+- to sum up 总之 概括地说
 
-**转折**：but yet  however while  on the other hand  on the contrary  nevertheless  whereas
+**强调**：
 
+- in fact 事实上
+- as a matter of fact 事实上
+- indeed 的确
+- especially 特别
+- particularly 特别
+- undoubtedly 毫无疑问的是
 
+**举例**：
 
-**让步**：although  notwithstanding   albeit  it is true that   admittedly   despite
+- for example
+- for instance
+- such as
 
-**对比**：compare  compared with+n  in comparison  comparatively  by contrast  in contrast
+**因果关系介词**：
+
+- due to 由于
+- owing to 由于 因为
+- thanks to 由于 幸亏
+- because of 由于
+- as a result of 因此 由于 作为……的结果
+
+**表示所以的连词**：
+
+- so
+- therefore
+- thus
+- hence
+- accordingly 相应的 所以
+- consequently
+- as a result
+
+**表示导致的动词**：
+
+- cause
+- lead to
+- result in
+- bring about
+
+**转折**：
+
+- but
+- yet
+- however *adv.*然而，可是，不过；无论如何；*conj.*不管怎样，无论如何；然而，可是
+- while
+- on the other hand 
+- on the contrary
+- nevertheless 然而
+- whereas 然而
+
+**让步**：
+
+- although 尽管
+- notwithstanding 尽管 虽然 
+- albeit */*ˌɔːlˈbiːɪt*/*尽管
+- it is true that 
+- admittedly */*ədˈmɪtɪdli*/* *adv.*诚然，不可否认地
+- despite 介词 只能跟名词
+  - despite(尽管) the rain, he still came
+
+**对比**：
+
+- compare 比较
+- compared with+n 对比
+- in comparison + 逗号 作为对比
+- comparatively */*kəmˈpærətɪvli*/**adv.*比较地，相对地
+- by contrast / in contrast 经由对比
 
 #### 3. 写作提分高能词-形容词
 
-![img](file:////Users/xingminwang/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image004.jpg)accommodate [ə'kɒmədeɪt] 供给住宿；使适应  considerate [kən'sɪdərət] 考虑周到的；体谅的 lengthen ['leŋθən] 加长；延长  wooden ['wʊdn] 木制的    withdrawal [wɪð'drɔːəl] 撤退； 退回；取消 vital ['vaɪtl] 至关重要的 handful ['hændfʊl]一把；少数 awful ['ɔːfl] 糟糕的motive ['məʊtɪv] 动机 decisive [dɪ'saɪsɪv] 决定性的    magic ['mædʒɪk] 魔法 mimic ['mɪmɪk] 模仿        fantastic [fæn'tæstɪk] 极好的；巨大的   detrimental [ˌdetrɪ'mentl] 不利的，有害的beneficial [ˌbenɪ'fɪʃl] 有利的   influential [ˌɪnflu'enʃl] 有影响力的      subsequent ['sʌbsɪkwənt]
-
-随后的  frequent ['friːkwənt] 频繁的  urgent ['ɜːdʒənt] 紧急的  flexible ['fleksəbl] 灵活的undesirable [ˌʌndɪ'zaɪərəbl] 不受欢迎的；不需要的        probable ['prɒbəbl] 可能的    probably ['prɒbəbli] 可能地 various ['veəriəs] 多样的  momentous [mə'mentəs] 重要的advantageous [ˌædvən'teɪdʒəs] 有利的      enthusiastic [ɪnˌθjuːzi'æstɪk] 热情的；热心的academic [ˌækə'demɪk] 学术的         dramatic [drə'mætɪk] 引人注目的    painful ['peɪnfl] 令人不快的    helpful ['helpfl] 有益的   meaningful ['miːnɪŋfl] 有意义的     positive ['pɒzətɪv] 积极的negative ['neɡətɪv] 消极的  active ['æktɪv] 主动的   passive ['pæsɪv] 被动的        respective [rɪ'spektɪv] 各自的
+- accommodate [ə'kɒmədeɪt] 供给住宿；使适应
+- considerate [kən'sɪdərət] 考虑周到的；体谅的
+- lengthen ['leŋθən] 加长；延长
+- wooden ['wʊdn] 木制的
+- withdrawal [wɪð'drɔːəl] 撤退； 退回；取消
+- vital ['vaɪtl] 至关重要的
+- handful ['hændfʊl]一把；少数
+- awful ['ɔːfl] 糟糕的
+- motive ['məʊtɪv] 动机
+- decisive [dɪ'saɪsɪv] 决定性的
+- magic ['mædʒɪk] 魔法
+- mimic ['mɪmɪk] 模仿
+- fantastic [fæn'tæstɪk] 极好的；巨大的
+- detrimental [ˌdetrɪ'mentl] 不利的，有害的
+- beneficial [ˌbenɪ'fɪʃl] 有利的
+- influential [ˌɪnflu'enʃl] 有影响力的
+- subsequent ['sʌbsɪkwənt]随后的
+- frequent ['friːkwənt] 频繁的
+- urgent ['ɜːdʒənt] 紧急的
+- flexible ['fleksəbl] 灵活的
+- undesirable [ˌʌndɪ'zaɪərəbl] 不受欢迎的；不需要的
+- probable ['prɒbəbl] 可能的
+- probably ['prɒbəbli] 可能地
+- various ['veəriəs] 多样的
+- momentous [mə'mentəs] 重要的
+- advantageous [ˌædvən'teɪdʒəs] 有利的
+- enthusiastic [ɪnˌθjuːzi'æstɪk] 热情的；热心的
+- academic [ˌækə'demɪk] 学术的
+- dramatic [drə'mætɪk] 引人注目的
+- painful ['peɪnfl] 令人不快的
+- helpful ['helpfl] 有益的
+- meaningful ['miːnɪŋfl] 有意义的
+- positive ['pɒzətɪv] 积极的
+- negative ['neɡətɪv] 消极的
+- active ['æktɪv] 主动的
+- passive ['pæsɪv] 被动的
+- respective [rɪ'spektɪv] 各自的
 
 
 
