@@ -110,63 +110,64 @@ tags:
 - answer ['ɑːnsə(r)] 回答
 - central ['sentrəl] 中心的
 - Franklyn 富兰克林
-- slip [slɪp] 滑倒
+- slip [slɪp] v. 滑倒 失足 溜走 n. 滑 滑倒 滑动
 - slipper ['slɪpə(r)] 拖鞋
-- slippery ['slɪpəri] 滑的；狡猾的
-- lip [lɪp] 嘴唇
-- dip [dɪp] 浸泡
-- sip [sɪp] 啜饮
+- slippery ['slɪpəri] 湿滑的；狡猾的
+- lip [lɪp] n. 嘴唇；边缘；容器边缘 v. （水）拍打
+- dip [dɪp] v. 浸泡 蘸；下降 下沉 v. 浸 蘸；游泳；减少；下降；调味酱汁 蘸料
+- sip [sɪp] v. 小口喝，抿 n. 一小口；一啜/chuò/之量
 - Bagdad 巴格达(伊拉克首都)
 - expensive [ɪk'spensɪv] 昂贵的
 - potato [pə'teɪtəʊ] 土豆
-- plastic ['plæstɪk]     塑料
+- plastic ['plæstɪk]  塑料
 - physics['fɪzɪks] 物理学
 - economics [ˌiːkə'nɒmɪks] 经济学
 - dynamics [daɪ'næmɪks] 力学
-- cast [kɑːst] 掷；抛
-- vast [vɑːst] 巨大的
+- cast [kɑːst] vt. 掷；抛  n. （电影、戏剧等的）全体演员；铸型，模型
+- vast [vɑːst] adj. 巨大的 n. 广阔空间
 - past [pɑːst] 经过
 - last [lɑːst] 持续
-- blast [blɑːst] 爆炸
-- plast [plæst] 体；粒；团
-- coal [kəʊl] 煤
+- blast [blɑːst] n. 爆炸 v. 炸毁 爆破
+- plast [plæst] n. 体；粒；团
+- coal [kəʊl] n.煤
 - coat [kəʊt] 外套
 - coach [kəʊtʃ] 教练
 - coast [kəʊst] 海岸
-- goal [ɡəʊl] 球门
+- goal [ɡəʊl] n. 球门 进球得分； 目标；目的 v. 射门 射门得分
 - medicine ['medsn] 药
 - airline ['eəlaɪn] 航线
 - temperature ['temprətʃə(r)] 气温
-- fuel ['fjuːəl] 燃料
+- fuel ['fjuːəl] n. 燃料 燃烧剂 v. 提供燃料；加油
 - glue [ɡluː] 胶
 - avenue ['ævənjuː] 林荫道
 - unique [ju'niːk] 独特的
-- dialogue ['daɪəlɒɡ] 对话
+- dialogue ['daɪəlɒɡ] n. 对话 对白；交换意见 v. （为解决问题而）参加对话，进行讨论
 - technical ['teknɪkl] 技术的
 - durable ['djʊərəbl] 耐用持久的
-- occupant ['ɒkjəpənt] 占有者
+- occupant ['ɒkjəpənt] n. 居住着 住户 占有者
+- occupy */*ˈɒkjupaɪ*/*  v. 使用（房屋、建筑），居住；占据（空间、时间），占据，占领
 - unnecessary [ʌn'nesəsəri] 不必要的
 - tunnel ['tʌnl] 隧道
 
 #### 3. 听力词汇-短单词拼写法
 
-- flake [fleɪk] 薄片
-- compete [kəm'piːt] 竞争
-- slide [slaɪd] 滑动
+- flake [fleɪk] n. 小薄片 碎片 v. 剥落
+- compete [kəm'piːt] v. 竞争 对抗 夺冠 参加比赛
+- slide [slaɪd] v. 滑动 滑行 n. 滑梯 滑道 滑行 滑动
 - remote [rɪ'məʊt] 遥远的
-- immune [ɪ'mjuːn] 免疫的
-- bite [baɪt] 咬
+- immune [ɪ'mjuːn] adj. 免疫的 不受影响的 n. 免疫者 免除者
+- bite [baɪt] v. 咬 咬伤 n. 咬 一口的量 少量的吃东西
 - lite [laɪt] 清淡的
 - kite [kaɪt] 风筝
 - site [saɪt] 地点
-- cite [saɪt] 引用
+- cite [saɪt] v. 引用 引证 n. 引用 引文
 - success [sək'ses] 成功
 - circle ['sɜːkl] 圆圈
 - mute [mjuːt] 哑的
-- impede [ɪm'piːd] 妨碍
-- diagnose ['daɪəɡnəʊz] 诊断(疾病)
+- impede [ɪm'piːd] v. 妨碍 阻碍
+- diagnose ['daɪəɡnəʊz] v. 诊断(疾病) 找出原因
 - sugarcane ['ʃʊgəˌkeɪn] 甘蔗
-- commercialize [kə'mɜːʃəlaɪz] 使商业化
+- commercialize [kə'mɜːʃəlaɪz] v. 使商业化 使商品化
 - circumstance ['sɜːkəmstəns] 环境
 - care [keə(r)] 关心
 - machine [mə'ʃiːn] 机器
@@ -194,7 +195,10 @@ tags:
 - photograph ['fəʊtəɡrɑːf] 拍照，摄影 
 - photographer [fə'tɒɡrəfə(r)] 摄影师
 - photographic [ˌfəʊtə'ɡræfɪk] 摄影的
-- economic [ˌiːkə'nɒmɪk] 经济学的；经济的
+- economic [ˌiːkə'nɒmɪk] adj. 经济学的；经济的
+  - ecnonomically adv. 经济地 在经济上
+  - economics n. 经济学的 经济的
+
 - fantastic [fæn'tæstɪk] 极好的；巨大的
 - enthusiastic [ɪnˌθjuːzi'æstɪk] 热心的；热情的
 
@@ -215,9 +219,9 @@ tags:
 - accelerate [ək'seləreɪt] 加速
 - celebrate ['selɪbreɪt] 庆祝
 - graduate ['ɡrædʒuət] 毕业
-- creation [kri'eɪʃn] 创造；创作
-- creativity [ˌkriːeɪ'tɪvəti] 创造力；创造
-- creature ['kriːtʃə(r)] 生物
+- creation [kri'eɪʃn] n.创造；创作
+- creativity [ˌkriːeɪ'tɪvəti] adj. 创造力；创造
+- creature ['kriːtʃə(r)] n. 生物
 - organism ['ɔːɡənɪzəm] 有机体
 - flora['flɔːrə] 植物
 - fauna ['fɔːnə] （某地区或某时期的）所有动物
@@ -254,11 +258,11 @@ tags:
 - commercial [kə'mɜːʃl] 商业的
 - finish ['fɪnɪʃ] 完成
 - final ['faɪnl] 最终的
-- infinity [ɪn'fɪnəti] 无限
-- distinguish [dɪ'stɪŋɡwɪʃ] 区别；辨认
-- distinct [dɪ'stɪŋkt] 明显的
-- distinction [dɪ'stɪŋkʃn] 差别
-- extinguish [ɪk'stɪŋɡwɪʃ] 消灭（不是灭绝）
+- infinity [ɪn'fɪnəti] n. （时 空 距离）无限 无穷 大量
+- distinguish [dɪ'stɪŋɡwɪʃ] v. 区别；辨认
+- distinct [dɪ'stɪŋkt] adj. 明显的 不同的 有区别的
+- distinction [dɪ'stɪŋkʃn] n. 差别 区分 卓越 
+- extinguish [ɪk'stɪŋɡwɪʃ] v. 消灭（不是灭绝）
 - diminish [dɪ'mɪnɪʃ] 减少
 - enlarge [ɪn'lɑːdʒ] 扩大
 - endanger [ɪn'deɪndʒə(r)] 危及
@@ -293,12 +297,14 @@ tags:
 - writer ['raɪtə(r)]  作者
 - author ['ɔːθə(r)] 作家
 - teacher ['tiːtʃə(r)] 教师
-- professor [prə'fesə(r)] 老师
+- professor [prə'fesə(r)] 教授 老师
 - player  ['pleɪə(r)] 比赛者
 - actor ['æktə(r)] 演员
 - trainer ['treɪnə(r)] 训练者
-- instructor [ɪn'strʌktə(r)] 指导
+- instructor [ɪn'strʌktə(r)] 导师 教练
 - dish washer 洗碗机
+  - dish n. 盘 碟 全部餐具（the dishes）v. 说……的闲话；把（食物）装盘
+
 - refrigerator [rɪ'frɪdʒəreɪtə(r)] 冰箱
 - vacuum/ˈvækjuːm*/* cleaner      真空吸尘器
 - hair dryer     吹风机
@@ -321,8 +327,8 @@ tags:
 - accountant [ə'kaʊntənt] 会计人员
 - participant [pɑː'tɪsɪpənt]参与者
 - merchant ['mɜːtʃənt] 商人
-- invest [ɪn'vest] 投资
-- investigate [ɪn'vestɪɡeɪt] 调查
+- invest [ɪn'vest] v. 投资
+- investigate [ɪn'vestɪɡeɪt] 调查 侦查 研究
 - instructor [ɪn'strʌktə(r)] 教师
 - construct [kən'strʌkt] 建造
 - reconstruct [ˌriːkən'strʌkt] 重建
@@ -1574,44 +1580,83 @@ verse 词根 = 转 = resolve = rotate
 - magic ['mædʒɪk] 魔法
 - mimic ['mɪmɪk] 模仿
 - fantastic [fæn'tæstɪk] 极好的；巨大的
-- detrimental [ˌdetrɪ'mentl] 不利的，有害的
+- detrimental [ˌdetrɪ'mentl] 不利的，有害的 <> beneficial */*ˌbenɪˈfɪʃ(ə)l*/* 有利的 == influential 有影响力的
+  - benefict 
+  - influence
 - beneficial [ˌbenɪ'fɪʃl] 有利的
 - influential [ˌɪnflu'enʃl] 有影响力的
-- subsequent ['sʌbsɪkwənt]随后的
+-  subsequent ['sʌbsɪkwənt]随后的
 - frequent ['friːkwənt] 频繁的
 - urgent ['ɜːdʒənt] 紧急的
 - flexible ['fleksəbl] 灵活的
 - undesirable [ˌʌndɪ'zaɪərəbl] 不受欢迎的；不需要的
+  - undesirable outcome 不是想要的后果
+
 - probable ['prɒbəbl] 可能的
 - probably ['prɒbəbli] 可能地
 - various ['veəriəs] 多样的
 - momentous [mə'mentəs] 重要的
 - advantageous [ˌædvən'teɪdʒəs] 有利的
+
+id ic 结尾代表一种属性
+
 - enthusiastic [ɪnˌθjuːzi'æstɪk] 热情的；热心的
 - academic [ˌækə'demɪk] 学术的
 - dramatic [drə'mætɪk] 引人注目的
+
+ful 结尾： 充满……的
+
 - painful ['peɪnfl] 令人不快的
 - helpful ['helpfl] 有益的
 - meaningful ['miːnɪŋfl] 有意义的
+
+ive: 通常与心态有关
+
 - positive ['pɒzətɪv] 积极的
 - negative ['neɡətɪv] 消极的
 - active ['æktɪv] 主动的
 - passive ['pæsɪv] 被动的
 - respective [rɪ'spektɪv] 各自的
 
+**上升**：
 
+- increase [ɪn'kriːs] 增加；提高
+- rise [raɪz] 上升；升起
+  - 过去式 rose 
+  - 过去分词 rosen
+- soar [sɔː(r)] 猛增；高涨
+- surge [sɜːdʒ] 汹涌；猛增
+- rocket ['rɒkɪt] 猛涨；飞快地移动
 
-**上升**：increase [ɪn'kriːs] 增加；提高  rise [raɪz] 上升；升起  soar [sɔː(r)] 猛增；高涨  surge [sɜːdʒ] 汹涌；猛增     rocket ['rɒkɪt] 猛涨；飞快地移动
+**表示急剧的词**：
 
-**表示急剧的词**：considerably [kən'sɪdərəbli] 非常地；相当地  greatly ['ɡreɪtli] 很；非常；大大地     noticeably ['nəʊtɪsəbli] 显著地；明显地 rapidly ['ræpɪdli] 迅速地；很快地
+- considerably [kən'sɪdərəbli] 非常地；相当地
+- greatly ['ɡreɪtli] 很；非常；大大地
+- noticeably ['nəʊtɪsəbli] 显著地；明显地
+- rapidly ['ræpɪdli] 迅速地；很快地
+- dramatically [drə'mætɪkli] 戏剧地；引人注目地
+- remarkably [rɪ'mɑːkəbli] 显著突出地；出乎意外地
+- markedly ['mɑːkɪdli] 显著地；醒目地
+- sharply ['ʃɑːpli] 锐利地；严厉地
+- enormously [ɪ'nɔːməsli] 极度；大量
+- substantially [səb'stænʃəli] 大体上；实质上
+- significantly [sɪɡ'nɪfɪkəntli] 意味深长地；意义深远地
 
+**表示突然的词：**
 
+- suddenly ['sʌdənli] 突然地
+- abruptly [ə'brʌptli] 突然地
+- surprisingly [sə'praɪzɪŋli] 意外地
 
-dramatically [drə'mætɪkli] 戏剧地；引人注目地  remarkably [rɪ'mɑːkəbli] 显著突出地；出乎意外地 markedly ['mɑːkɪdli] 显著地；醒目地 sharply ['ʃɑːpli] 锐利地；严厉地 enormously [ɪ'nɔːməsli] 极度；大量 substantially [səb'stænʃəli] 大体上；实质上 significantly [sɪɡ'nɪfɪkəntli] 意味深长地；意义深远地
+**表示平缓的词:**
 
-![img](file:////Users/xingminwang/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image004.jpg)**表示突然的词：**suddenly ['sʌdənli] 突然地 abruptly [ə'brʌptli] 突然地 surprisingly [sə'praɪzɪŋli] 意外地
-
-**表示平缓的词:**slightly ['slaɪtli] 些微地；稍微 steadily ['stedɪlɪ] 稳定地 stably ['steɪbli] 稳定地；可靠地 smoothly ['smuːðli] 平滑地；流畅地 moderately ['mɒdərətli] 适度地；一般地gradually ['ɡrædʒuəli] 逐渐地 mildly ['maɪldli] 柔和地
+- slightly ['slaɪtli] 些微地；稍微
+- steadily ['stedɪlɪ] 稳定地
+- stably ['steɪbli] 稳定地；可靠地
+- smoothly ['smuːðli] 平滑地；流畅地
+-  moderately ['mɒdərətli] 适度地；一般地
+- gradually ['ɡrædʒuəli] 逐渐地
+- mildly ['maɪldli] 柔和地
 
 
 
@@ -1621,72 +1666,204 @@ dramatically [drə'mætɪkli] 戏剧地；引人注目地  remarkably [rɪ'mɑː
 | clever ['klevə(r)] 聪明的    | smart [smɑːt]  时髦的；漂亮的  | talented ['tæləntɪd] 有才能的   |
 | brilliant ['brɪljənt] 卓越的 | prodigious [prə'dɪdʒəs] 巨大的 | fairly ['feəli]  公正地；相当地 |
 
+- embarrassed 尴尬的
+- ashamed 惭愧的
+- guilty 内疚
+- depressed 沮丧的
+- sensitive 敏感的 
+- anxious 焦虑
+- surprised 惊讶
+- delighted 高兴
+- pleased 满意
 
-
-![img](file:////Users/xingminwang/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image004.jpg)actually ['æktʃuəli] 实际上  generally ['dʒenrəli] 一般地；通常  lightly ['laɪtli] 轻轻地；轻快地 thickly ['θɪkli] 厚厚地；浓密地  protagonist [prə'tæɡənɪst] 主角；支持者           lightyear [laɪt'jeər] 光年    distinctly [dɪ'stɪŋktli] 清楚地；显然地  bully ['bʊli] 欺凌弱小者；开球embarrassed [ɪm'bærəst] 尴尬           ashamed [ə'ʃeɪmd] 惭愧            guilty ['ɡɪlti] 内疚    depressed [dɪ'prest] 沮丧 sensitive ['sensətɪv] 敏感      anxious ['æŋkʃəs] 焦虑 surprised [sə'praɪzd] 惊讶 delighted [dɪ'laɪtɪd] 高兴 pleased [pliːzd] 满意
+- actually ['æktʃuəli] 实际上
+- generally ['dʒenrəli] 一般地；通常
+- lightly ['laɪtli] 轻轻地；轻快地
+- thickly ['θɪkli] 厚厚地；浓密地
+- protagonist [prə'tæɡənɪst] 主角；支持者
+- lightyear [laɪt'jeər] 光年
+- distinctly [dɪ'stɪŋktli] 清楚地；显然地
+- bully ['bʊli] 欺凌弱小者；开球
+- embarrassed [ɪm'bærəst] 尴尬
+- ashamed [ə'ʃeɪmd] 惭愧
+- guilty ['ɡɪlti] 内疚
+- depressed [dɪ'prest] 沮丧
+- sensitive ['sensətɪv] 敏感
+- anxious ['æŋkʃəs] 焦虑
+- surprised [sə'praɪzd] 惊讶
+- delighted [dɪ'laɪtɪd] 高兴
+- pleased [pliːzd] 满意
 
 #### 2. 口语核心话题词汇（1）
 
-喜欢交朋友 energetic sociable  徒步旅行 go hiking  博学多识的 knowledgeable['nɒlɪdʒəbl] 下象棋  play chess  充满智慧 full of wisdom  打太极  practice tai chi  遛狗  walk the dog 对人生有深刻理解的 have a deep comprehension of life 发小 sidekick ['saɪdkɪk]
+- 喜欢交朋友 energetic sociable
+- 徒步旅行 go hiking
+- 博学多识的 knowledgeable['nɒlɪdʒəbl] 
+- 象棋  play chess
+- 充满智慧 full of wisdom
+- 打太极  practice tai chi
+- 遛狗  walk the dog
+- 对人生有深刻理解的 have a deep comprehension of life
+- 发小 sidekick ['saɪdkɪk]
+- 退休 retired [rɪ'taɪəd] 
+- 晨练 morning exercise
+- 有礼貌的 good mannered
+- 上瘾的 addicted [ə'dɪktɪd] 
+  - get addeicted to 对……成瘾
 
-退休 retired [rɪ'taɪəd]    晨练 morning exercise   有礼貌的 good mannered
+- 多才多艺的 versatile ['vɜːsətaɪl]
+- 理想主义者 idealist [aɪ'diːəlɪst]
+- 外向 outgoing['aʊtɡəʊɪŋ] <> introverted*/*ˈɪntrəvɜːtɪd*/* 内向的
+  - 与人好的 easygoing
 
-上瘾的 addicted [ə'dɪktɪd]  多才多艺的 versatile ['vɜːsətaɪl]  理想主义者 idealist [aɪ'diːəlɪst]
+- 有音乐天分的 musically gifted
+- 天真的 naive[naɪ'iːv]
+- 书呆子 bookworm ['bʊkwɜːm] 
+- 长得并不是很帅 plain looking
+  - Although he's plain looking, he's releally talented. I admire his competence
 
-外向 outgoing['aʊtɡəʊɪŋ]   有音乐天分的 musically gifted   天真的 naive[naɪ'iːv]
+- 能力 competence ['kɒmpɪtəns]
+- 名人 celebrity [sə'lebrəti]
+- 有人格魅力的charismatic [ˌkærɪz'mætɪk]
+- 实力派 strength group
+- 有抱负的 ambitious [æm'bɪʃəs]
+- 时尚偶像 fashion icon
+- 一夜成名 well-known 在夜里；突然overnight [ˌəʊvə'naɪt]
+- 有修养的 cultured ['kʌltʃəd]
+- 低调的  low-key
+- 杰出的成就outstanding achievement（成就）
+- 勤奋的 努力的 industrious [ɪn'dʌstriəs]
+- 八卦 gossip ['ɡɒsɪp]
+- 随和的easy-going [ˌi:zi:'gəʊɪŋ]
+- 有趣的 hilarious [hɪ'leəriəs]
+- 直率的 straightforward [ˌstreɪt'fɔːwəd]
+- 值得信任的 trustworthy ['trʌstwɜːði]
+- （比如房子）不算太大 medium-sized
+- 装修 decoration[ˌdekə'reɪʃn]
+- 温馨 cozy ['kəʊzi]
 
-书呆子 bookworm ['bʊkwɜːm] 长得并不是很帅 plain looking 能力 competence ['kɒmpɪtəns] 名人 celebrity [sə'lebrəti]  有人格魅力的charismatic [ˌkærɪz'mætɪk]  实力派 strength group 有抱负的 ambitious [æm'bɪʃəs] 时尚偶像 fashion icon 一夜成名 well-known
+> It is a medium-sized house with a simple decoration. In fact, I don't like big house coz it's not cozy enough
 
-在夜里；突然overnight [ˌəʊvə'naɪt] 有修养的 cultured ['kʌltʃəd]  低调的  low-key
+- 家具 furniture['fɜːnɪtʃə(r)]
+- 豪华的 luxurious [lʌɡ'ʒʊəriəs]
+- 古典风格的 classical style
+- 智能的 smart [smɑːt]
+- 室内设计 interior*/*ɪnˈtɪəriə(r)*/* design
+- 一尘不染的 spotless ['spɒtləs]
+- 整洁的 tidy ['taɪdi]
+- 平方米 square meters
+- 装修 decoration [ˌdekə'reɪʃn]
+- 衣柜 wardrobe ['wɔːdrəʊb]
+- 朝阳的 south-facing
+- 木地板 wooden floor
+- 沿海 coastal ['kəʊstl]
+- 盛产 abundance [ə'bʌndəns] 
 
-杰出的成就outstanding achievement  勤奋的 industrious [ɪn'dʌstriəs]
+>  It is a coastal city known for its abundance of seafood. And there are many tourists coming on summer vacation
 
-
-
-八卦 gossip ['ɡɒsɪp]    随和的easy-going [ˌi:zi:'gəʊɪŋ]   有趣的 hilarious [hɪ'leəriəs]
-
-直率的 straightforward [ˌstreɪt'fɔːwəd]   值得信任的 trustworthy ['trʌstwɜːði]
-
-不算太大 medium-sized   装修 decoration[ˌdekə'reɪʃn]  温馨 cozy ['kəʊzi]
-
-![img](file:////Users/xingminwang/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image004.jpg)家具 furniture['fɜːnɪtʃə(r)]   豪华的 luxurious [lʌɡ'ʒʊəriəs] 古典风格的 classical style 智能的 smart [smɑːt]      室内设计 interior design 一尘不染的 spotless ['spɒtləs] 整洁的 tidy ['taɪdi]          平方米 square meters         装修 decoration [ˌdekə'reɪʃn] 衣柜 wardrobe ['wɔːdrəʊb]                   朝阳的 south-facing          木地板 wooden floor
-
-沿海 coastal ['kəʊstl]    盛产 abundance [ə'bʌndəns]  位于 be located in…
-
-四季分明 distinctive seasons   内陆城市 inland city   主要旅游景点 main tourist attraction
-
-娱乐业  entertainment industry 避暑胜地 summer resort  风味小吃  local snacks 热情好客的人们   friendly and hospitable people 历史名胜 places of historical interest 繁荣的经济                 prosperous economy      主题公园 theme park        喷泉 fountain['faʊntən] 晒太阳 sunbath ['sʌnbɑːθ]    雕塑 sculpture ['skʌlptʃə(r)]    花坛 flower bed
-
-长椅 bench [bentʃ]    安静的 peaceful serene    儿童游乐场 children’s playground
-
-植物园  botanical garden   精神焕发feel refreshed
+- 位于 be located in…
+- 四季分明 distinctive seasons
+- 内陆城市 inland city 
+- 主要旅游景点 main tourist attraction(娱乐项目、景点)
+- 娱乐业  entertainment*/*ˌentəˈteɪnmənt*/* industry*/*ˈɪndəstri*/*
+- 避暑胜地 summer resort
+- 风味小吃  local snacks
+- 热情好客的人们   friendly and hospitable*/*hɒˈspɪtəb(ə)l*/*(好客的) people
+- 历史名胜 places of historical interest
+- 繁荣的经济 prosperous economy
+- 主题公园 theme park
+- 喷泉 fountain['faʊntən]
+- 晒太阳 sunbath ['sʌnbɑːθ]
+- 雕塑 sculpture ['skʌlptʃə(r)]
+- 花坛 flower bed
+- 长椅 bench [bentʃ]
+- 安静的 peaceful       =      serene*/*səˈriːn*/*adj.*平静的，安详的*
+- 儿童游乐场 children’s playground
+- 植物园  botanical*/*bəˈtænɪk(ə)l*/*(植物（学）的) garden
+- 精神焕发feel refreshed
 
 #### 3. 口语核心话题词汇（2）
 
-爱情片romance film   改编 adapted [ə'dæptɪd]    感人的 touching ['tʌtʃɪŋ]   很受欢迎的
+- 爱情片romance film
+- 改编 adapted [ə'dæptɪd]
+- 感人的 touching ['tʌtʃɪŋ]
+- 很受欢迎的a big hit
 
-a big hit  主演 starring [s'tɑːrɪŋ]   发人深省的 thought-provoking   译制片 dubbed film
+> This was a romance file which was adapted from touch love story. At that time, It was definitely a big hit
 
-受启发的 inspired [ɪn'spaɪəd]   票房 box office    超级英雄电影 superhero film
+- 主演 starring [s'tɑːrɪŋ]
+- 发人深省的 thought-provoking
+- 译制片 dubbed film
 
-票房最高 highest-grossing   科幻电影 Science fiction    视觉效果 Visual effect
+- 受启发的 inspired [ɪn'spaɪəd]
+- 票房 box office
+- 超级英雄电影 superhero film
 
-文化冲击 cultural shock   拍照 camera ['kæmərə]  拍 shoot[ʃuːt]    蹦出 pop-up
+- 票房最高 highest-grossing
+- 科幻电影 Science fiction
+- 视觉效果 Visual effect
 
-后台 background ['bækɡraʊnd]  不耐烦 impatient [ɪm'peɪʃnt] 实用的 practical ['præktɪkl]
+- 文化冲击 cultural shock
+- 拍照 camera ['kæmərə]
+- 拍 shoot[ʃuːt]
+- 蹦出 pop-up
 
+- 后台 background ['bækɡraʊnd]
 
+> Its camera function is particularly powerful. When I went to the concert, it could shoot the singer even at a great distance. And the memory is big enough, I don't have to worry about always cleaning the background.
 
-精致的 delicate['delɪkət]    买得很划算 good value for money   易碎的 fragile ['frædʒaɪl] 性价比高 performance-price ratio   视频软件 video app/software 便携式的 portable['pɔːtəbl] 社交软件 social networking        耐用的 durable ['djʊərəbl]     支付方式 payment method
+- concert */*ˈkɒnsət*/* 音乐会
 
-刺激 thrilling ['θrɪlɪŋ]    极限运动  extreme   吸睛  sport eye-catching  强身健体 Keep fit
+- 不耐烦 impatient [ɪm'peɪʃnt]
+  - patient 耐心的，冷静的
 
-骨折bone fracture  运动量momentum[mə'mentəm]  崴脚sprain the ankle 抽 cramp[kræmp]
+> If I don't have a membership, it will pop-up advertisement every once in a while, which makes me very impatient.
+>
+> 如果不充会员的话，它每隔一段时间就会蹦出广告，这让我很不耐烦
 
+- 实用的 practical ['præktɪkl]
+- 精致的 delicate['delɪkət]
+- 买得很划算 good value for money
+- 易碎的 fragile ['frædʒaɪl]
+- 性价比高 performance-price ratio
+- 视频软件 video app/software
+- 便携式的 portable['pɔːtəbl]
+- 社交软件 social networking
+- 耐用的 durable ['djʊərəbl]
+- 支付方式 payment method
+- 刺激 thrilling ['θrɪlɪŋ]
+- 极限运动  extreme
+- adventurous*/*ədˈventʃərəs*/* 冒险的
+- 吸睛  sport eye -catching
+- 强身健体 Keep fit
+  - fitness club 健身房
 
+- 骨折bone fracture
+- 运动量momentum[mə'mentəm]
+- 崴脚sprain*/*spreɪn*/*(扭伤) the ankle*/*ˈæŋk(ə)l*/*(脚踝，踝关节)
+- 抽 cramp[kræmp]
+- tht moment of wechat 微信朋友圈
+- eye-catching 吸眼球的
+- dive 潜水
+- performance n. 表演，演出 *adj.*性能卓越的，高性能的
+- Unprecedented */*ʌnˈpresɪdentɪd*/*前所未有的
 
-### 六、总结课词汇
+> in fact, I don't have much opinion about what major to study. My parents are more concerned about this matter. They feel that if I read business, I will have a wider employment(就业) range in the future.
+
+### 六、总结课词汇 
 
 **课程总结及学习规划****:**
 
-torpedo [tɔː'piːdəʊ] 鱼雷  ponderous ['pɒndərəs]  肥胖的 agony ['æɡəni] 痛苦  guilt [ɡɪlt] 有负罪感的 morbid ['mɔːbɪd] 病态的      hijack ['haɪdʒæk] 劫机  asthma ['æsmə] 气管炎ephemeral [ɪ'femərəl] 短暂的         admire [əd'maɪə(r)] 羡慕    strong [strɒŋ] 强壮的  economy [ɪ'kɒnəmi] 经济  custom ['kʌstəm] 海关  nutrition [nju'trɪʃn] 营养
+- torpedo [tɔː'piːdəʊ] 鱼雷
+- ponderous ['pɒndərəs]  肥胖的 
+- agony ['æɡəni] 痛苦
+- guilt [ɡɪlt] 有负罪感的
+- morbid ['mɔːbɪd] 病态的
+- hijack ['haɪdʒæk] 劫机
+- asthma ['æsmə] 气管炎
+- ephemeral [ɪ'femərəl] 短暂的
+- admire [əd'maɪə(r)] 羡慕
+- strong [strɒŋ] 强壮的
+- economy [ɪ'kɒnəmi] 经济
+- custom ['kʌstəm] 海关
+- nutrition [nju'trɪʃn] 营养
